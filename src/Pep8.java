@@ -1,10 +1,10 @@
 import java.util.Scanner;
 import java.util.regex.Pattern;
+
   
 
-
 /** Helper to program prototype Pep/8 program in Java.
- * 
+ *
  * @author Jean Privat
  * @version 2013-01-08
  *
