@@ -1,4 +1,5 @@
 public class Snake {
+    //ceci est un commentaire essai
     public static void main(String[] args) {
         int lasttype = 0; // Type du dernier caractère : 2 = majuscule, 1 = minuscule, 0 = autre
         char nextcar = Pep8.chari();
