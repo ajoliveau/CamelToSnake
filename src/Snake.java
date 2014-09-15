@@ -21,12 +21,12 @@ public class Snake {
             else {
                 Pep8.charo(car);
                 lasttype = 0;
+                
             }
         }
         Pep8.charo((char) 10);
         Pep8.stop();
     }
-
 }
 
 
